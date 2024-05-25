@@ -56,7 +56,11 @@ Il Bot Elettrotecnica UNISA funziona in modo semplice:
 2. **Aggiornamenti in tempo reale**: se trova nuovi aggiornamenti, il bot scarica il file PDF aggiornato.
 3. **Notifiche immediate**: il bot invia automaticamente il nuovo file PDF a tutti gli utenti che hanno attivato la sottoscrizione.
 
-Il codice sorgente del Bot Elettrotecnica UNISA è completamente open source e disponibile su [GitHub](https://github.com/ch3p4ll3).
+Il codice sorgente del Bot Elettrotecnica UNISA è completamente open source e disponibile su [GitHub](https://github.com/ch3p4ll3/Elettrotecnica-UNISA).
+
+**Stai riscontrando problemi con il Bot Elettrotecnica UNISA?**
+
+Nessun problema! Puoi contattarmi [qui](https://t.me/ch3p4ll3) per aiutarti a risolvere qualsiasi inconveniente.
 """)
 
 
@@ -72,7 +76,10 @@ Il tuo assistente per rimanere aggiornato sulle novità della bacheca degli esam
 /subscribe - Attiva gli aggiornamenti automatici sulle novità della bacheca.
 /unsubscribe - Disattiva gli aggiornamenti automatici.
 /help - Mostra questa guida ai comandi.
-""")
+
+**Stai riscontrando problemi con il Bot Elettrotecnica UNISA?**
+
+Nessun problema! Puoi contattarmi [qui](https://t.me/ch3p4ll3) per aiutarti a risolvere qualsiasi inconveniente.""")
 
 
 @app.on_message(filters.command("subscribe"))
