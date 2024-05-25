@@ -6,7 +6,7 @@ This Telegram bot automates the process of checking for updates on the Universit
 
 - **Automatic** Updates: The bot checks the exam board website every 10 minutes for new information.
 - **PDF Delivery**: If updates are found, the bot automatically sends the latest PDF file to subscribed users.
-- **Subscription Management**: Users can activate (/subscribe) and deactivate (/unsubscribe) subscriptions at their convenience.
+- **Subscription Management**: Users can activate (`/subscribe`) and deactivate (`/unsubscribe`) subscriptions at their convenience.
 - **Open-Source Code**: The bot's code is available on GitHub for transparency, collaboration, and learning purposes. (https://github.com/github/docs)
 
 ## Installation (Developers Only)
@@ -42,10 +42,10 @@ Questo bot Telegram automatizza il processo di verifica degli aggiornamenti dell
 
 ## Caratteristiche
 
-- Aggiornamenti **automatici**: Il bot controlla il sito web della commissione d'esame ogni 10 minuti per verificare la presenza di nuove informazioni.
-- Consegna del PDF**: Se vengono trovati aggiornamenti, il bot invia automaticamente il file PDF più recente agli utenti iscritti.
-- Gestione degli abbonamenti**: Gli utenti possono attivare (/subscribe) e disattivare (/unsubscribe) gli abbonamenti a loro piacimento.
-- Codice open source**: Il codice del bot è disponibile su GitHub a fini di trasparenza, collaborazione e apprendimento. (https://github.com/github/docs)
+- **Aggiornamenti automatici**: Il bot controlla il sito web della commissione d'esame ogni 10 minuti per verificare la presenza di nuove informazioni.
+- **Consegna del PDF**: Se vengono trovati aggiornamenti, il bot invia automaticamente il file PDF più recente agli utenti iscritti.
+- **Gestione degli abbonamenti**: Gli utenti possono attivare (`/subscribe`) e disattivare (`/unsubscribe`) gli abbonamenti a loro piacimento.
+- **Codice open source**: Il codice del bot è disponibile su GitHub a fini di trasparenza, collaborazione e apprendimento. (https://github.com/github/docs)
 
 ## Installazione (solo per gli sviluppatori)
 - **Clonare il repository**: Usare `git clone https://github.com/ch3p4ll3/Elettrotecnica-UNISA` per clonare il repository localmente.
@@ -58,7 +58,7 @@ Questo bot Telegram automatizza il processo di verifica degli aggiornamenti dell
 - **Avvio**: Avvia il bot con il comando `/start`.
 - **Sottoscrizione**: Attiva gli aggiornamenti automatici con il comando `/subscribe`.
 - **Unsubscribe**: Disattiva gli aggiornamenti automatici con il comando `/unsubscribe`.
-- Aiuto**: Visualizza un elenco dei comandi disponibili con il comando `/help`.
+- **Aiuto**: Visualizza un elenco dei comandi disponibili con il comando `/help`.
 
 
 ## Supporto
