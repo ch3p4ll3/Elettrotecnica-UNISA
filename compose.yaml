@@ -1,0 +1,12 @@
+services:
+  server:
+    build:
+      context: .
+
+    volumes:
+      - ./configs:/app/config
+
+    env_file:
+      - path: ./.env
+        required: true # default
+
